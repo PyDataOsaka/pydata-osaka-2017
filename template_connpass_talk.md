@@ -11,7 +11,7 @@ PyData.Osaka Meetup #8開催のご案内です。
 
 ## 内容
 
-発表やLTにご興味のある方は https://twitter.com/kozo2 (https://twitter.com/kozo2) にお声がけください。差し支えなければ，トークの内容はYouTubeで公開させていただきたいと思っています。https://www.youtube.com/channel/UCXHrkobjEf1yLkmblB6CHyg
+
 
 ## 準備
 
